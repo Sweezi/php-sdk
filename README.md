@@ -5,7 +5,7 @@ This package allows integration of clients applications with the MySweezi API.
 ## Install
 
 ```
-composer install sweezi/sdk
+composer install sweezi/php-sdk
 ```
 
 ## Getting started
